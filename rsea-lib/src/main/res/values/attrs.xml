@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PageController">
+        <attr name="totalpage" format="integer" />
+        <attr name="currentpage" format="integer" />
+        <attr name="active" format="reference" />
+        <attr name="deactive" format="reference" />
+        <attr name="gap" format="dimension" />
+    </declare-styleable>
+</resources>
